@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Travel to Smallville</title>
+        <link href='https://fonts.googleapis.com/css?family=Armata' rel='stylesheet'>
+      
+       <style>
+           body {background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG"); 
+           font-family: 'Armata';
+           font-size: 15px;
+           margin: 30px;
+           }
+           div {font-family: 'Helvetica';
+           font-size: 15px;
+           background-color:white;
+           border-style: solid;
+           border-color:red;
+           padding: 1px 15px 20px 15px;
+           background-color: rgb(255, 255, 255);
+           
+           }
+           h3 {color:rgb(0, 72, 255);}
+           
+           .rounded-img
+           {border-radius:50%;
+           }
+           
+            .history{
+               width:40%;
+               float:left;
+               position:absolute;
+               right:300px;
+               
+           }
+           
+           .notable-locations {
+            width:40%;
+            float:right;
+            position:absolute;
+            left:300px;
+            top:215px;
+            
+               
+           }
+           
+          
+        </style>
+        
+    </head>
+    
+    
+    <body>
+        <pre><h1 style="text-align:center" font-size="30px"><strong>T R A V E L  T O</strong><br><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Smallville_2001_logo.svg" width="400"></h1></pre>
+        <p style="text-align:center;background-color:rgb(250, 225, 3)">
+        The meteor capital of the world!
+        </p>
+   
+   <div class="history">
+       <h3>History</h3>
+       <hr>
+      <p> Smallville is a small town in Kansas with a population of 45,000 people. When the meteor shower of 1989 occurred, it caused serious casualties and destruction to the town, while scattering around large quantities of radioactive green kryptonite and causing all sorts of mutations to the town's citizens. 
+<br><br>
+Smallville itself changed dramatically in the years following the first meteor shower. It was dubbed "America's Weirdest Town" by a national news magazine and it seemed that strange, unexplainable things were always taking place in the quiet hamlet that seemed so normal on the surface. So Smallville was soon called "The Meteor Capital Of The World!" Bizarre occurrences—such as a 150-pound tomato, a golden retriever that gave birth to a two-headed puppy and the miraculous recovery of a critically ill woman given no chance to survive by her doctors — became increasingly common in Smallville.<br><br>
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Smallville_silver_age_map.jpg" height="150" align="left|middle" class="rounded-img">
+  
+       <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Superboy_billboard.jpg" alt="Smallville Billboard with Superman" height="150" align="right" class="rounded-img">
+       </p>
+   </div>
+   <br>
+  <div class="notable-locations">
+      <h3>Notable Locations</h3>
+      <hr>
+      <ul>
+          <li><h4><strong>The Miller's Fields</strong></h4></li>
+          These fields are where Superman's spaceship from planet Krypton, was found. 
+          <li><h4><strong>The Kent Farm</strong></h4></li>
+          This is where Superman grew up as Clark Kent, adopted and raised by Johnathan and Martha Kent. The Kents have owned the farm for three generations.
+          <li><h4><strong>Smallville High</strong></h4></li>
+          Smallville High is where Clark Kent and his friends attended from 2001-2005. 
+          <li><h4><strong>LexCorp</strong></h4></li>
+          LexCorp is the plant turned lab of Lex Luthor, the son of the late billionaire, Lionel Luthor.
+      </ul>
+  </div>
+   
+  
+    </body>
+</html>
