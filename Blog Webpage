@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PCareer Blog: Andin Makes A Scene</title>
+    </head>
+    <style>
+        body {
+           
+            font-family:"Georgia", sans-serif;
+            background-image:url(https://upload.wikimedia.org/wikipedia/commons/f/fc/Composition5r.jpg);
+             border:1px;
+             padding:10px;
+             
+        }
+        
+     .header
+     {
+          margin:10px;
+          background-color:white;
+          padding-left:30px;
+          padding-right:30px;
+          padding-bottom:30px;
+          padding-top:30px;
+          border: solid blue;
+          background-color:white;
+     }
+  h1{
+   
+   text-align:center;
+   border:10px 10px 10px 10px;
+  }
+   
+   .blog-posts {
+        margin:10px;
+          background-color:white;
+          padding-left:30px;
+          padding-right:30px;
+          padding-bottom:30px;
+          padding-top:30px;
+          border: solid blue;
+    
+   }
+
+  }
+    
+        
+    </style>
+    <body>
+        <div>
+        <div class="header">
+        <h1>Andin Makes A Scene</h1>
+        
+        <h3>Contents</h3>
+        <ul>
+            <li>Mi Primera Entrada de Blog </li>
+            <li>¿Haciendo Un Canal de YouTube?</li>
+        </ul>
+       <hr>
+       </div>
+       <div class="blog-posts">
+        <h2 >Mi Primera Entrada de Blog </h2>
+        <h6> 3 Octobre 2020</h6>
+        
+        <p>¡Hola, mundo! Estoy emocionada para subir mi primera entrada de blog. Hace menos de dos semanas, yo empezaba a aprender la programación informática. Quiero ser desarrolladora de web. Hasta ahora, yo aprendía HTML/CSS y espero ser competente por el fin de octubre. La próxima semana, voy a aprender JavaScript, SQL, PHP y Python. Trato de encontrar un trabajo que requiere solo conocimiento de HTML/CSS. Después yo aprendo los otros lenguajes, expandiré mi búsqueda de trabajo. <br> Espero que Dios me muestra que hacer. Yo voy a documentar mi viaje aquí. ¡Vuelta aquí para averiguar!
+        </p></div><hr>
+        <div class="blog-posts">
+<h2>¿Haciendo Un Canal de YouTube?</h2>
+        <h6> 4 Octobre 2020</h6>
+       <p> Todavía, tengo una pasión por periodismo, pero he decido que no es una carrera estable al momento. Muchas empresas están trabajando a distancia durante la pandemia. Este significa que los trabajos en línea son solicitados. Estoy considerando una carrera en YouTube, haciendo los videos de ensayos sobre los temas en cultura popular. También yo podría hacer videos en español. Este es una buena manera de utilizar mis títulos en inglés (escribiendo), los estudios digitales (la edición de video) y los estudios globales (español). Pero este es justo una idea por ahora. 
+       </p> 
+        </div>
+        </div>
+    </body>
+</html>
