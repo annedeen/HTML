@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h1{font-family:"helvetica";
+        border:solid 2px;
+        border-color: red;
+        text-align:center;
+        padding: 5px;
+        }
+        
+        h2{font-family:courier;}
+        
+        body{margin:25px;background-color:rgb(255, 252, 252);}
+        table {padding:10px; border: solid 2px; font-family:"Helvetica"; }
+        thead{text-align:left; font-family:"Helvetica"; 
+        background:linear-gradient(90deg,red,white);
+        }
+        </style>
+    </head>
+    <body>
